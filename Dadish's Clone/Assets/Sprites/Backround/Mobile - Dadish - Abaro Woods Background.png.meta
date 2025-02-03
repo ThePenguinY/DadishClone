@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: c4f00f72cebbb2343b5c5e9bc285749e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb451840194e504f9f3d8744f5e44aa
+      internalID: -1979135610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7c5407f54cf14c9bc92680fe98edf
+      internalID: 224537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676fee0eba1213b41a8ee60ca42686e7
+      internalID: -1804919814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c36b8fa701ca34fa5df17a810d7071
+      internalID: -835375509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a34e1fef8ab60542934ac776a0d174f
+      internalID: -1082362796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1c19796dfd5b4eb09b70a6feae890
+      internalID: -1452145229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e6e3ae3f25ef4e89fa2154a48eb8f
+      internalID: -1587650286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94e87a229e6e741bfa6727e1af0c46
+      internalID: 1935782114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770270ec6c922d041b00cceab24ba310
+      internalID: 1848952531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c68dbd40518c3469aa1a5dfb4afa34
+      internalID: 883056660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281bfe7676636d4690e36082c1e9bd1
+      internalID: -558769373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c345028611a9408400e773332aa8f
+      internalID: -1647650090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d1f6c1c0aab9419a2eeb68421fbe3
+      internalID: -746824004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f470635b53894c9429ab89ac86d06768
+      internalID: 523887316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b17a6179e8dec43bcf8642f62200ed
+      internalID: -1516691478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca472eea196324f9c2025c1ed507ae
+      internalID: 400945830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b73dc4ca16ae4eb522aadc4d4fa89
+      internalID: 48584485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185a18c21a2db94296bc4aff9dea185
+      internalID: -1854466932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792c9bc753155d4fa1bac878fb918cf
+      internalID: 1691612895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3625db18f16cf314cb5d60d789c7e882
+      internalID: -1410148436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5e677bca5dce408cfa19389a88b63
+      internalID: -1370453103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cc3535a43850478de9f9977fd4ba4
+      internalID: -83310866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02e2c4f0b8a4144aaf857071203fc0
+      internalID: -278839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 230
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54df3a71c9aea64bb1270cef7013f34
+      internalID: 1727170914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889a5bca2a439264da34de6623115d2a
+      internalID: 710844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c65cb92b455c4da48271341bc0691
+      internalID: -541363071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52bf6128fc11d4ba9054e0e6841ee8
+      internalID: -1989583173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f4c4f9a8ee474daabef8ebd53fd3f
+      internalID: 1558480183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b074f6e8d4a9b41b759ced87f57a49
+      internalID: -721084248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db8fcfa4ce93442a74d6a60d9436e8
+      internalID: -570348598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84c5552cfdaea4283eea0d63a3e9fc
+      internalID: -69352167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f737ec1128814ca4f543e7eaeb897
+      internalID: -769381020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a874baf2c52e6e44a3608cc5da3f021
+      internalID: 1052093657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535a6ecf8b08c648b8731e76336edd9
+      internalID: 1668670361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdd0434cb6ec3419425fca1cc76086
+      internalID: 767970399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 207
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21640f8e2dec9bc4dbeeb9a6e348522d
+      internalID: -1568961633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae6bb2e9039674cba22836bfcf687a
+      internalID: -1574839532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df01693771fba4ebc0bb36bce86245
+      internalID: 467656490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950d67e9e4b37b46ba312ca9e0d83d7
+      internalID: -2011349648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc43496a161fef4bad9dc1f7360b20d
+      internalID: -568769058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fe58e94768e84aa63c22d3620d56a
+      internalID: -2140344253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39d048ef7c8314d991f65db5ed00f9
+      internalID: 1572599039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebef06d2519a3744827c70da09a7483
+      internalID: 94919918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf15199a6638c44908734540b8e46f
+      internalID: 580694178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425e3eb0a5ac58458698b4a2e248047
+      internalID: 349981015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff8b99dde0a8f34fa13ed2f29a34695
+      internalID: -656534283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f111d16f9d733045b80462e367c5813
+      internalID: -1281680357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1c268b5f7fc84d958012bdc78255c
+      internalID: 60932325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184e3fb897816084e8ff38faa65bd28b
+      internalID: -830985976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e594437f0c9e884aab4dbdf0a01ae73
+      internalID: -44306475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5ca5a3cf958c408f7b7c0971201e7
+      internalID: -591159887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fcb3b9b73ec5a4684cd27357e8cd8d
+      internalID: 28989973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_52
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5814494aeb384eb22c775817bbc28
+      internalID: 1429807715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82609534e0b6d4744be764c9bf9d3585
+      internalID: 1211739209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6663c56b7f78e479d63fd9167cc1ca
+      internalID: -1361862506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cecd7f37dd9d44ca509a2c9b86edc6
+      internalID: -613750626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9d7eb8cee0c24e9c7c9bf18411051
+      internalID: 48000574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c22f7c4179fd4083a5faec212e759
+      internalID: -506808049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0667336f46c1419869b1fccf901c2
+      internalID: -113262426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b50efa886a44498914cb80e085665
+      internalID: -2106045383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3025da037e58445a39f0a01b853136
+      internalID: -1969961790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ec7a800195944a9ce864f2c66d284
+      internalID: -1367919752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36ce27573b47742aa588df8435e040
+      internalID: 1142009208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63069e1775b9644a878007083c37c4
+      internalID: -1592508142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81add655c0624c04f81b52adce706672
+      internalID: 292923715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5239976ded5cc942974040b373225f6
+      internalID: 760059787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22459f9bf24fefa40a92e2e424aa8f45
+      internalID: 973577791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0d6de94fcd2645b998b9a5c363a00
+      internalID: 502941334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9aa53743774b3458ebabeaeaef15e2
+      internalID: 464434498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f865562c85ac8f48af36087af818212
+      internalID: -1106134482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f2fba9b2f39d48bae977e8cbdae0f
+      internalID: 753511985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef498360e0b484ca7c22e06eb5eb5a
+      internalID: -1647601957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c471ce265cec4b967b09221957c06
+      internalID: 1756669700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df14e6a484a0f343acf23d54fd0b5d8
+      internalID: -487739633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30bd646c7ef184d9d7ab6d65ab65c5
+      internalID: 893972943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03addcace5d3f4bb3968b1b02cc943
+      internalID: 2085993797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42f3f2e93136347b06f26bb62d2fea
+      internalID: -1894253670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474546fc61e7f2c41b215caebd725b7c
+      internalID: -892646172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197725bf914906842b8127c1eb6f5cb7
+      internalID: -240637904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384e4bf7b7b21a4dbb21c874a837ee0
+      internalID: -1946379761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_80
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a45b63c35222c4a9432e2153a004e8
+      internalID: 148378706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e73b9c0a4de904c96e3b1f0254c21a
+      internalID: 1541981907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a2bb5dbdaf9445a87980d05bad35c
+      internalID: -964052393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ece34e41c1244fba73b5bf2c199f3
+      internalID: -1856419545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572f4bd67e5bb64e99f8a628442b202
+      internalID: 1002315753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_85
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c19fc998bae85a42800d34bac6ed722
+      internalID: 324201815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978189a9d4361d43be80065dd00b409
+      internalID: 1616994946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d629b21caed6243a2bc2d2716c101c
+      internalID: -1255799455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_88
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583cccd60882c34aa2239a8aea3c704
+      internalID: 402334580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee17e5e37f7a44e4295fea84e96700a6
+      internalID: 390753901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95f8c6a58d10c4c953e116837650e4
+      internalID: 1094252793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c1fa2d8dec824cb483735ceba5fb0
+      internalID: 1149989833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2029d5b282fa04ba8a5c1242a6978f
+      internalID: -1765211321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9557cdd9d3e14d9096bc55f786a82
+      internalID: -2116906689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_94
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb38ed5a17a48439da2d62d3edd4ea
+      internalID: -1718316286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 92
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54775375643fabe479b5e8e1a49acbff
+      internalID: -32697258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db6be3930f25b4e9b2e785cfc3b426
+      internalID: -540650962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47429c25bdda3954b8a4d97fe93cc220
+      internalID: 956745798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c211e3b2d5af43a22448782d03c75
+      internalID: -1355405630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a736f8db3b0140af37b77b9eadac1
+      internalID: 158996457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_100
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361b576929754240a85ca3d46e76001
+      internalID: -2139407396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c70765b1497d4391b191d9564236b
+      internalID: 467309851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_102
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb329193a495694bbefb5d30305d6ca
+      internalID: -1750128539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_103
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3960312937da42985aaae613e30e3
+      internalID: -1884440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_104
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef994cdd31383e94f843511f2aa4715e
+      internalID: -1274799676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599f87b9aa64854a83c51ff602c627e
+      internalID: -932846512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b2ede6d47e464098c02a7983ecf6d
+      internalID: -277595720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_107
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e2df7153661e347b369826160cf500
+      internalID: -1239024711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335a29d0bb6d0d4ba5296633b235d33
+      internalID: -1735040568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_109
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fbc00a4510e1040bfd2d63fdf94c75
+      internalID: 152538796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_110
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe2d2de17f7e84b818b28eeaf47f16
+      internalID: -470642939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f34746bee056c439d9d8c8714c20c8
+      internalID: 118625545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_112
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c051c9f8133a724892769ecfab5a54b
+      internalID: -144853919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_113
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8642066652fcb540a118e51b9e86414
+      internalID: -476795476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46a68a913d989c469cccaed1f29b8cc
+      internalID: 663113532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ea0806275dfc4c9f3970af425f033
+      internalID: -46078856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_116
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381bd945428b2f41ae5b69bf05d1b07
+      internalID: 189775607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_117
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce06ff77ae050b4d8db3aae035178bb
+      internalID: 2033266575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45de73d1b4ea3428881c1ef0fb57b1
+      internalID: 572854168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_119
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0eeaa60d1034f4fa2dfc145d89665f
+      internalID: -1447094905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f1f55e835b394e8f735130bc717e3
+      internalID: -785912392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_121
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85971a00b7890274399c33b195462255
+      internalID: 1090844925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_122
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0363993463ac4c4d89dc852b8fba1b2
+      internalID: 900091761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d6717a7776a74fbd4b6fcf6b688d7
+      internalID: 1522391121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426de1909a3649429cd9f03f8655951
+      internalID: -1318306933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_125
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd5013a0c78184bbdce2180b3cbcd2
+      internalID: 1896478568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_126
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4334878e81a525468982c690e447110
+      internalID: 594307631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a944e4f2b338eb42bc4be90d9fbd19b
+      internalID: 1315477958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_128
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65a27ef829ffb45b2da76017c8b628
+      internalID: -1219388411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_129
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990a63c948c8e04091c8c23ab6a7d77
+      internalID: -1065508423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_130
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d9d44ba071e94b830aa9ff0f41263
+      internalID: 843942052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_131
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29075b3900c7a8743a795e4cce0eb400
+      internalID: -2037771103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670a419cc113e140b016df0ee0c1621
+      internalID: -1637882223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d68f41c3bcad40b88d8cd3e73cf9c
+      internalID: -1313817732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a443685b22a664b9171f18f951e071
+      internalID: -926101906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52196032895d1fa4e9b5fe59a0795840
+      internalID: 1013103861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_136
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875c1222cb962846be5956fc2abe354
+      internalID: -1189493263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_137
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bde7b34397e31a46b395f118716e4cd
+      internalID: -1964150320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d61b27387d1d438209ea32baf96c9
+      internalID: -45448021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_139
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f280a155609fb94db8a76ece6322df0
+      internalID: 772975883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_140
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b8fff9503d754f9a6cabb3a946789
+      internalID: 2015094918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_141
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ee0f76bf8663499843bff58b27cbc
+      internalID: -1744356236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4a0c3cb5f47242b11aa0ea3f11aea
+      internalID: 796679819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dadish - Abaro Woods Background_143
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b8d4867fd0c6c41ae09b528bc3e53f
+      internalID: -1952289396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Dadish - Abaro Woods Background_0: -1979135610
+      Mobile - Dadish - Abaro Woods Background_1: 224537391
+      Mobile - Dadish - Abaro Woods Background_10: -558769373
+      Mobile - Dadish - Abaro Woods Background_100: -2139407396
+      Mobile - Dadish - Abaro Woods Background_101: 467309851
+      Mobile - Dadish - Abaro Woods Background_102: -1750128539
+      Mobile - Dadish - Abaro Woods Background_103: -1884440155
+      Mobile - Dadish - Abaro Woods Background_104: -1274799676
+      Mobile - Dadish - Abaro Woods Background_105: -932846512
+      Mobile - Dadish - Abaro Woods Background_106: -277595720
+      Mobile - Dadish - Abaro Woods Background_107: -1239024711
+      Mobile - Dadish - Abaro Woods Background_108: -1735040568
+      Mobile - Dadish - Abaro Woods Background_109: 152538796
+      Mobile - Dadish - Abaro Woods Background_11: -1647650090
+      Mobile - Dadish - Abaro Woods Background_110: -470642939
+      Mobile - Dadish - Abaro Woods Background_111: 118625545
+      Mobile - Dadish - Abaro Woods Background_112: -144853919
+      Mobile - Dadish - Abaro Woods Background_113: -476795476
+      Mobile - Dadish - Abaro Woods Background_114: 663113532
+      Mobile - Dadish - Abaro Woods Background_115: -46078856
+      Mobile - Dadish - Abaro Woods Background_116: 189775607
+      Mobile - Dadish - Abaro Woods Background_117: 2033266575
+      Mobile - Dadish - Abaro Woods Background_118: 572854168
+      Mobile - Dadish - Abaro Woods Background_119: -1447094905
+      Mobile - Dadish - Abaro Woods Background_12: -746824004
+      Mobile - Dadish - Abaro Woods Background_120: -785912392
+      Mobile - Dadish - Abaro Woods Background_121: 1090844925
+      Mobile - Dadish - Abaro Woods Background_122: 900091761
+      Mobile - Dadish - Abaro Woods Background_123: 1522391121
+      Mobile - Dadish - Abaro Woods Background_124: -1318306933
+      Mobile - Dadish - Abaro Woods Background_125: 1896478568
+      Mobile - Dadish - Abaro Woods Background_126: 594307631
+      Mobile - Dadish - Abaro Woods Background_127: 1315477958
+      Mobile - Dadish - Abaro Woods Background_128: -1219388411
+      Mobile - Dadish - Abaro Woods Background_129: -1065508423
+      Mobile - Dadish - Abaro Woods Background_13: 523887316
+      Mobile - Dadish - Abaro Woods Background_130: 843942052
+      Mobile - Dadish - Abaro Woods Background_131: -2037771103
+      Mobile - Dadish - Abaro Woods Background_132: -1637882223
+      Mobile - Dadish - Abaro Woods Background_133: -1313817732
+      Mobile - Dadish - Abaro Woods Background_134: -926101906
+      Mobile - Dadish - Abaro Woods Background_135: 1013103861
+      Mobile - Dadish - Abaro Woods Background_136: -1189493263
+      Mobile - Dadish - Abaro Woods Background_137: -1964150320
+      Mobile - Dadish - Abaro Woods Background_138: -45448021
+      Mobile - Dadish - Abaro Woods Background_139: 772975883
+      Mobile - Dadish - Abaro Woods Background_14: -1516691478
+      Mobile - Dadish - Abaro Woods Background_140: 2015094918
+      Mobile - Dadish - Abaro Woods Background_141: -1744356236
+      Mobile - Dadish - Abaro Woods Background_142: 796679819
+      Mobile - Dadish - Abaro Woods Background_143: -1952289396
+      Mobile - Dadish - Abaro Woods Background_15: 400945830
+      Mobile - Dadish - Abaro Woods Background_16: 48584485
+      Mobile - Dadish - Abaro Woods Background_17: -1854466932
+      Mobile - Dadish - Abaro Woods Background_18: 1691612895
+      Mobile - Dadish - Abaro Woods Background_19: -1410148436
+      Mobile - Dadish - Abaro Woods Background_2: -1804919814
+      Mobile - Dadish - Abaro Woods Background_20: -1370453103
+      Mobile - Dadish - Abaro Woods Background_21: -83310866
+      Mobile - Dadish - Abaro Woods Background_22: -278839988
+      Mobile - Dadish - Abaro Woods Background_23: 1727170914
+      Mobile - Dadish - Abaro Woods Background_24: 710844177
+      Mobile - Dadish - Abaro Woods Background_25: -541363071
+      Mobile - Dadish - Abaro Woods Background_26: -1989583173
+      Mobile - Dadish - Abaro Woods Background_27: 1558480183
+      Mobile - Dadish - Abaro Woods Background_28: -721084248
+      Mobile - Dadish - Abaro Woods Background_29: -570348598
+      Mobile - Dadish - Abaro Woods Background_3: -835375509
+      Mobile - Dadish - Abaro Woods Background_30: -69352167
+      Mobile - Dadish - Abaro Woods Background_31: -769381020
+      Mobile - Dadish - Abaro Woods Background_32: 1052093657
+      Mobile - Dadish - Abaro Woods Background_33: 1668670361
+      Mobile - Dadish - Abaro Woods Background_34: 767970399
+      Mobile - Dadish - Abaro Woods Background_35: -1568961633
+      Mobile - Dadish - Abaro Woods Background_36: -1574839532
+      Mobile - Dadish - Abaro Woods Background_37: 467656490
+      Mobile - Dadish - Abaro Woods Background_38: -2011349648
+      Mobile - Dadish - Abaro Woods Background_39: -568769058
+      Mobile - Dadish - Abaro Woods Background_4: -1082362796
+      Mobile - Dadish - Abaro Woods Background_40: -2140344253
+      Mobile - Dadish - Abaro Woods Background_41: 1572599039
+      Mobile - Dadish - Abaro Woods Background_42: 94919918
+      Mobile - Dadish - Abaro Woods Background_43: 580694178
+      Mobile - Dadish - Abaro Woods Background_44: 349981015
+      Mobile - Dadish - Abaro Woods Background_45: -656534283
+      Mobile - Dadish - Abaro Woods Background_46: -1281680357
+      Mobile - Dadish - Abaro Woods Background_47: 60932325
+      Mobile - Dadish - Abaro Woods Background_48: -830985976
+      Mobile - Dadish - Abaro Woods Background_49: -44306475
+      Mobile - Dadish - Abaro Woods Background_5: -1452145229
+      Mobile - Dadish - Abaro Woods Background_50: -591159887
+      Mobile - Dadish - Abaro Woods Background_51: 28989973
+      Mobile - Dadish - Abaro Woods Background_52: 1429807715
+      Mobile - Dadish - Abaro Woods Background_53: 1211739209
+      Mobile - Dadish - Abaro Woods Background_54: -1361862506
+      Mobile - Dadish - Abaro Woods Background_55: -613750626
+      Mobile - Dadish - Abaro Woods Background_56: 48000574
+      Mobile - Dadish - Abaro Woods Background_57: -506808049
+      Mobile - Dadish - Abaro Woods Background_58: -113262426
+      Mobile - Dadish - Abaro Woods Background_59: -2106045383
+      Mobile - Dadish - Abaro Woods Background_6: -1587650286
+      Mobile - Dadish - Abaro Woods Background_60: -1969961790
+      Mobile - Dadish - Abaro Woods Background_61: -1367919752
+      Mobile - Dadish - Abaro Woods Background_62: 1142009208
+      Mobile - Dadish - Abaro Woods Background_63: -1592508142
+      Mobile - Dadish - Abaro Woods Background_64: 292923715
+      Mobile - Dadish - Abaro Woods Background_65: 760059787
+      Mobile - Dadish - Abaro Woods Background_66: 973577791
+      Mobile - Dadish - Abaro Woods Background_67: 502941334
+      Mobile - Dadish - Abaro Woods Background_68: 464434498
+      Mobile - Dadish - Abaro Woods Background_69: -1106134482
+      Mobile - Dadish - Abaro Woods Background_7: 1935782114
+      Mobile - Dadish - Abaro Woods Background_70: 753511985
+      Mobile - Dadish - Abaro Woods Background_71: -1647601957
+      Mobile - Dadish - Abaro Woods Background_72: 1756669700
+      Mobile - Dadish - Abaro Woods Background_73: -487739633
+      Mobile - Dadish - Abaro Woods Background_74: 893972943
+      Mobile - Dadish - Abaro Woods Background_75: 2085993797
+      Mobile - Dadish - Abaro Woods Background_76: -1894253670
+      Mobile - Dadish - Abaro Woods Background_77: -892646172
+      Mobile - Dadish - Abaro Woods Background_78: -240637904
+      Mobile - Dadish - Abaro Woods Background_79: -1946379761
+      Mobile - Dadish - Abaro Woods Background_8: 1848952531
+      Mobile - Dadish - Abaro Woods Background_80: 148378706
+      Mobile - Dadish - Abaro Woods Background_81: 1541981907
+      Mobile - Dadish - Abaro Woods Background_82: -964052393
+      Mobile - Dadish - Abaro Woods Background_83: -1856419545
+      Mobile - Dadish - Abaro Woods Background_84: 1002315753
+      Mobile - Dadish - Abaro Woods Background_85: 324201815
+      Mobile - Dadish - Abaro Woods Background_86: 1616994946
+      Mobile - Dadish - Abaro Woods Background_87: -1255799455
+      Mobile - Dadish - Abaro Woods Background_88: 402334580
+      Mobile - Dadish - Abaro Woods Background_89: 390753901
+      Mobile - Dadish - Abaro Woods Background_9: 883056660
+      Mobile - Dadish - Abaro Woods Background_90: 1094252793
+      Mobile - Dadish - Abaro Woods Background_91: 1149989833
+      Mobile - Dadish - Abaro Woods Background_92: -1765211321
+      Mobile - Dadish - Abaro Woods Background_93: -2116906689
+      Mobile - Dadish - Abaro Woods Background_94: -1718316286
+      Mobile - Dadish - Abaro Woods Background_95: -32697258
+      Mobile - Dadish - Abaro Woods Background_96: -540650962
+      Mobile - Dadish - Abaro Woods Background_97: 956745798
+      Mobile - Dadish - Abaro Woods Background_98: -1355405630
+      Mobile - Dadish - Abaro Woods Background_99: 158996457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
